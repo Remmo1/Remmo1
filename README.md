@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 
 ![java](https://user-images.githubusercontent.com/73716334/151009732-54e84844-6ff2-44b9-bd1b-2f470a6d7179.png)
 ![spring-logo](https://user-images.githubusercontent.com/73716334/151010057-0313a0e5-65fd-4b65-807b-84b267cb3f59.png)
+![scala](https://user-images.githubusercontent.com/73716334/151010077-e9a88715-c8dc-4c9b-a125-3ff9d33379af.png)
