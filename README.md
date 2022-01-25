@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![java](https://user-images.githubusercontent.com/73716334/151010696-fa30034a-385e-4526-927d-42826a31120e.png)
+I am very good at:
 
-![scala](https://user-images.githubusercontent.com/73716334/151010713-94ae54c5-4390-4361-bf5a-5d145cc726c5.png)
-
-![spring-logo](https://user-images.githubusercontent.com/73716334/151010723-9b8ab3e0-fe93-4bf3-809d-032c627c4547.png)
-
+![java](https://user-images.githubusercontent.com/73716334/151011407-ee99d347-1812-4dbd-a326-8df0d77bd9bf.png)
+![spring-logo](https://user-images.githubusercontent.com/73716334/151011397-9a212328-4f14-4bbd-ad57-aa47f65e2602.png)
+![scala](https://user-images.githubusercontent.com/73716334/151011403-2354f793-73a7-4d8a-8caa-3709b8f2f776.png)
