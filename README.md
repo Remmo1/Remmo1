@@ -2,7 +2,8 @@
 
 ✨ I would like to show you my best projects wrote in Java, Scala, C++ and more! ✨ 
 
-![code](https://user-images.githubusercontent.com/73716334/151575721-01fad0b2-5502-471d-913d-de809bd29f30.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/73716334/151576766-fed88f9d-d378-4939-8809-42c0cc3b10c2.gif)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,6 +13,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 I am very good at:
 
