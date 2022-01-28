@@ -1,9 +1,6 @@
 ### Welcome to my Github! 👋
 
-
-**Remmo1/Remmo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨ I would like to show you my best projects wrote in Java, Scala, C++ and more! ✨ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
