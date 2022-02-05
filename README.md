@@ -5,21 +5,23 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73716334/151576766-fed88f9d-d378-4939-8809-42c0cc3b10c2.gif)
 
-### Follow me!
+### 📫 Follow me on:
 
 [![Twitter URL](https://img.shields.io:/twitter/url?label=%40Remmo123456789&style=social&url=https%3A%2F%2Ftwitter.com%2FRemmo123456789)](https://twitter.com/Remmo123456789)
 
 [![FB URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007905436766)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+- 🔭 I’m currently working on React apps.
+- 🌱 I’m currently learning JavaScript.
+- 🤔 I’m looking for help with Outstanding Video ideas.
+- 💬 Ask me about awesome java applications
+- 📫 How to reach me: pisarski987@gmail.com
+- 😄 Pronouns: CoderOne
+- ⚡ Fun fact: I play games and like swimming.
+
+
+### Top Technologies:
 
 I am very good at:
 
