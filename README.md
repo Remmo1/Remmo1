@@ -5,11 +5,11 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73716334/151576766-fed88f9d-d378-4939-8809-42c0cc3b10c2.gif)
 
-:mailbox:
+### Follow me!
 
-![Twitter URL](https://img.shields.io/twitter/url?label=%40Remmo123456789&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial%26url%3Dhttps%253A%252F%252Ftwitter.com%252FRemmo123456789)
+![Twitter URL](https://img.shields.io:/twitter/url?label=%40Remmo123456789&style=social&url=https%3A%2F%2Ftwitter.com%2FRemmo123456789)
 
-![Twitter URL](https://img.shields.io/twitter/url?label=FaceBook%20Profile&logo=Logo&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100007905436766)
+![FB URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript
