@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 💬 Ask me about awesome java applications
 - 📫 How to reach me: pisarski987@gmail.com
-- 😄 Pronouns: CoderOne
+- 😄 Pronouns: CoderThree
 - ⚡ Fun fact: I play games and like swimming.
 
 
@@ -25,6 +25,19 @@
 
 I am very good at:
 
-![java](https://user-images.githubusercontent.com/73716334/151011407-ee99d347-1812-4dbd-a326-8df0d77bd9bf.png)
-![spring-logo](https://user-images.githubusercontent.com/73716334/151011397-9a212328-4f14-4bbd-ad57-aa47f65e2602.png)
-![scala](https://user-images.githubusercontent.com/73716334/151011403-2354f793-73a7-4d8a-8caa-3709b8f2f776.png)
+![java2](https://user-images.githubusercontent.com/73716334/152649672-ba74e19a-a1a8-4745-86c6-693235fa531e.png)
+![scala2](https://user-images.githubusercontent.com/73716334/152649808-3cba80a4-9108-406d-85ee-0876d5bf9f8c.png)
+![spring-logo2](https://user-images.githubusercontent.com/73716334/152649809-009658fa-45b5-4771-bfc1-e4782041ec89.png)
+
+
+I hope to get better in:
+
+![js2](https://user-images.githubusercontent.com/73716334/152649802-b482d985-c477-474e-b39d-6f392c10e77e.png)
+![node2](https://user-images.githubusercontent.com/73716334/152649804-87573079-cae2-410c-816a-a8078adbde89.png)
+![react2](https://user-images.githubusercontent.com/73716334/152649806-c6b0ead9-d47d-43f5-bed5-8bc8463bd580.png)
+
+I am not fan of: 
+
+![python2](https://user-images.githubusercontent.com/73716334/152649805-5999926d-bf33-4bad-9155-f849eb3c08b7.png)
+
+### Examples:
