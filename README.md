@@ -7,16 +7,9 @@
 
 ### Follow me!
 
-link do twittera
-https://twitter.com/Remmo123456789
+[![Twitter URL](https://img.shields.io:/twitter/url?label=%40Remmo123456789&style=social&url=https%3A%2F%2Ftwitter.com%2FRemmo123456789)](https://twitter.com/Remmo123456789)
 
-do FB
-https://www.facebook.com/profile.php?id=100007905436766
-
-![Twitter URL](https://img.shields.io:/twitter/url?label=%40Remmo123456789&style=social&url=https%3A%2F%2Ftwitter.com%2FRemmo123456789)
-
-
-![FB URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![FB URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007905436766)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript
