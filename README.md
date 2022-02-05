@@ -25,9 +25,9 @@
 
 I am very good at:
 
-![java2](https://user-images.githubusercontent.com/73716334/152649672-ba74e19a-a1a8-4745-86c6-693235fa531e.png)
-![scala2](https://user-images.githubusercontent.com/73716334/152649808-3cba80a4-9108-406d-85ee-0876d5bf9f8c.png)
-![spring-logo2](https://user-images.githubusercontent.com/73716334/152649809-009658fa-45b5-4771-bfc1-e4782041ec89.png)
+[![java2](https://user-images.githubusercontent.com/73716334/152649672-ba74e19a-a1a8-4745-86c6-693235fa531e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/java.png)
+[![scala2](https://user-images.githubusercontent.com/73716334/152649808-3cba80a4-9108-406d-85ee-0876d5bf9f8c.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/scala.png)
+[![spring-logo2](https://user-images.githubusercontent.com/73716334/152649809-009658fa-45b5-4771-bfc1-e4782041ec89.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/spring-logo.png)
 
 
 I hope to get better in:
