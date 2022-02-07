@@ -31,27 +31,27 @@ I am very good at:
 
 I had contact with (I think it was awesome):
 
-![js2](https://user-images.githubusercontent.com/73716334/152649802-b482d985-c477-474e-b39d-6f392c10e77e.png)
-![css-32](https://user-images.githubusercontent.com/73716334/152853612-1334f0bf-a5f1-4b5b-96b7-d7fc21b570d3.png)
-![html2](https://user-images.githubusercontent.com/73716334/152853627-48ae5e48-e804-40f0-bc79-adbe4a201b90.png)
+[![js2](https://user-images.githubusercontent.com/73716334/152649802-b482d985-c477-474e-b39d-6f392c10e77e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/js.png)
+[![css-32](https://user-images.githubusercontent.com/73716334/152853612-1334f0bf-a5f1-4b5b-96b7-d7fc21b570d3.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/css-3.png)
+[![html2](https://user-images.githubusercontent.com/73716334/152853627-48ae5e48-e804-40f0-bc79-adbe4a201b90.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/html.png)
 
 
 I hope to get better in:
 
-![node2](https://user-images.githubusercontent.com/73716334/152649804-87573079-cae2-410c-816a-a8078adbde89.png)
-![react2](https://user-images.githubusercontent.com/73716334/152649806-c6b0ead9-d47d-43f5-bed5-8bc8463bd580.png)
+[![node2](https://user-images.githubusercontent.com/73716334/152649804-87573079-cae2-410c-816a-a8078adbde89.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/node.png)
+[![react2](https://user-images.githubusercontent.com/73716334/152649806-c6b0ead9-d47d-43f5-bed5-8bc8463bd580.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/react.png)
 
 I am not fan of: 
 
-![c++2](https://user-images.githubusercontent.com/73716334/152853607-661187c9-3fd0-4364-9813-44b3546624e2.png)
-![python2](https://user-images.githubusercontent.com/73716334/152649805-5999926d-bf33-4bad-9155-f849eb3c08b7.png)
+[![c++2](https://user-images.githubusercontent.com/73716334/152853607-661187c9-3fd0-4364-9813-44b3546624e2.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/c%2B%2B.png)
+[![python2](https://user-images.githubusercontent.com/73716334/152649805-5999926d-bf33-4bad-9155-f849eb3c08b7.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/python.png)
 
 I work with:
 
-![inteliij2](https://user-images.githubusercontent.com/73716334/152855024-77f47fe0-24a6-46de-904b-83138812e86b.png)
-![git2](https://user-images.githubusercontent.com/73716334/152853620-1083cc08-b0e0-477f-902f-80383c539e56.png)
-![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)
-![vsCode2](https://user-images.githubusercontent.com/73716334/152854547-5f9d2567-9be3-4c2b-a1a6-ec8d824fbd7a.png)
+[![inteliij2](https://user-images.githubusercontent.com/73716334/152855024-77f47fe0-24a6-46de-904b-83138812e86b.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/inteliij.png)
+[![git2](https://user-images.githubusercontent.com/73716334/152853620-1083cc08-b0e0-477f-902f-80383c539e56.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/git.png)
+[![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/Ubuntu-Emblema.png)
+[![vsCode2](https://user-images.githubusercontent.com/73716334/152854547-5f9d2567-9be3-4c2b-a1a6-ec8d824fbd7a.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/vsCode.png)
 
 
 ### Examples:
