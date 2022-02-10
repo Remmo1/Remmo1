@@ -66,7 +66,9 @@ I work with:
 
 <br>
 
-<h4> &emsp I am the student at University of Science and Technology in Wrocław. I study Applied Computer Science. This year in march I am starting the 4th semester.</h4>
+<p> &nbsp &nbsp &nbsp &nbsp I am the student at University of Science and Technology in Wrocław. I study Applied Computer Science. This year in march I am starting the 4th semester.</p>
+
+<p> &nbsp &nbsp &nbsp &nbsp I love programming but this is not my only passion. I like swimming too. My greatest hobby is F1. </p>
 
 <br>
 
