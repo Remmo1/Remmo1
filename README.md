@@ -55,3 +55,22 @@ I work with:
 
 
 ### Examples:
+
+<br>
+
+<details>
+
+<summary>
+    More stuff about me
+</summary>
+
+<br>
+
+<h4> &emsp I am the student at University of Science and Technology in Wrocław. I study Applied Computer Science. This year in march I am starting the 4th semester.</h4>
+
+<br>
+
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remmo1&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
