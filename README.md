@@ -54,11 +54,20 @@ I work with:
 [![vsCode2](https://user-images.githubusercontent.com/73716334/152854547-5f9d2567-9be3-4c2b-a1a6-ec8d824fbd7a.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/vsCode.png)
 
 
-### Examples:
+## Examples:
 
+### Applications with Grafic User Interface:
 ![spring-logo2](https://user-images.githubusercontent.com/73716334/153917334-546e632a-5b8a-43f8-81bf-9964a0b585d5.png)
 ![java2](https://user-images.githubusercontent.com/73716334/153917342-59c5f3b8-cf4d-4b2b-b5e3-4e0e75ae8bce.png)[Covid-19 Tracker App](https://www.youtube.com/watch?v=ieCOQj9DlnE)
 
+![java2](https://user-images.githubusercontent.com/73716334/154715407-e041f01c-7be1-4b9b-91de-28cf2cff549e.png)[Library](https://www.youtube.com/watch?v=XNJ8P8Qspes)
+
+![react2](https://user-images.githubusercontent.com/73716334/154715420-9df6653d-4091-499b-afcb-6aa8c01d06c6.png)[Calculator](https://www.youtube.com/watch?v=ax-qTCsoXdg)
+
+
+![spring-logo2](https://user-images.githubusercontent.com/73716334/154715429-9256393a-0a52-41ae-8dc5-2405fabc9793.png)
+![react2](https://user-images.githubusercontent.com/73716334/154716134-4631466d-c52e-46a9-a5cb-32f68bf5bc77.png)
+[Employee Service](https://www.youtube.com/watch?v=Q00S-dZWCSk)
 
 <br>
 
