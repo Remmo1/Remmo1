@@ -54,8 +54,11 @@ I work with:
 [![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/Ubuntu-Emblema.png)
 [![vsCode2](https://user-images.githubusercontent.com/73716334/152854547-5f9d2567-9be3-4c2b-a1a6-ec8d824fbd7a.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/vsCode.png)
 
+<br>
 
 ## Examples:
+
+<br>
 
 ### Applications with Grafic User Interface:
 ![spring-logo2](https://user-images.githubusercontent.com/73716334/153917334-546e632a-5b8a-43f8-81bf-9964a0b585d5.png)
@@ -65,10 +68,23 @@ I work with:
 
 ![react2](https://user-images.githubusercontent.com/73716334/154715420-9df6653d-4091-499b-afcb-6aa8c01d06c6.png)[Calculator](https://www.youtube.com/watch?v=ax-qTCsoXdg)
 
-
 ![spring-logo2](https://user-images.githubusercontent.com/73716334/154715429-9256393a-0a52-41ae-8dc5-2405fabc9793.png)
 ![react2](https://user-images.githubusercontent.com/73716334/154716134-4631466d-c52e-46a9-a5cb-32f68bf5bc77.png)
 [Employee Service](https://www.youtube.com/watch?v=Q00S-dZWCSk)
+
+![react2](https://user-images.githubusercontent.com/73716334/154715420-9df6653d-4091-499b-afcb-6aa8c01d06c6.png)[Snake Game](https://www.youtube.com/watch?v=-ob86GGyONk)
+
+<br>
+
+### Console Applications:
+
+
+![scala2](https://user-images.githubusercontent.com/73716334/159522447-980cb921-9da7-45df-853e-cc8f2911b742.png)[MultiThreatening Dining Philosophers](https://www.youtube.com/watch?v=vHdBs39LQ6g)
+
+![c++2](https://user-images.githubusercontent.com/73716334/159522461-51318a0b-ab6c-4555-a743-06020bfc0ba2.png)[Max3Sat](https://www.youtube.com/watch?v=EkPx4DKFHqk)
+
+
+
 
 <br>
 
