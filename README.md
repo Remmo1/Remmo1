@@ -55,7 +55,7 @@
 [![inteliij2](https://user-images.githubusercontent.com/73716334/152855024-77f47fe0-24a6-46de-904b-83138812e86b.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/inteliij.png)
 [![vsCode2](https://user-images.githubusercontent.com/73716334/152854547-5f9d2567-9be3-4c2b-a1a6-ec8d824fbd7a.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/vsCode.png)
 [![git2](https://user-images.githubusercontent.com/73716334/152853620-1083cc08-b0e0-477f-902f-80383c539e56.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/git.png)
-[![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/Ubuntu-Emblema.png) |
+[![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/Ubuntu-Emblema.png)
 
 <br>
 
