@@ -55,8 +55,7 @@
 [![inteliij2](https://user-images.githubusercontent.com/73716334/152855024-77f47fe0-24a6-46de-904b-83138812e86b.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/inteliij.png)
 [![vsCode2](https://user-images.githubusercontent.com/73716334/152854547-5f9d2567-9be3-4c2b-a1a6-ec8d824fbd7a.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/vsCode.png)
 [![git2](https://user-images.githubusercontent.com/73716334/152853620-1083cc08-b0e0-477f-902f-80383c539e56.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/git.png)
-[![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/Ubuntu-Emblema.png)
-
+[![Ubuntu-Emblema2](https://user-images.githubusercontent.com/73716334/152854526-fe760cff-4257-4f48-ae02-3bdbef2cda5e.png)](https://github.com/Remmo1/Remmo1/blob/main/icons/Ubuntu-Emblema.png) |
 
 <br>
 
@@ -75,7 +74,6 @@
 | [Employee Service](https://www.youtube.com/watch?v=Q00S-dZWCSk) | ![spring-logo2](https://user-images.githubusercontent.com/73716334/154715429-9256393a-0a52-41ae-8dc5-2405fabc9793.png) ![react2](https://user-images.githubusercontent.com/73716334/154716134-4631466d-c52e-46a9-a5cb-32f68bf5bc77.png) |
 | [Library](https://www.youtube.com/watch?v=XNJ8P8Qspes) | ![java2](https://user-images.githubusercontent.com/73716334/154715407-e041f01c-7be1-4b9b-91de-28cf2cff549e.png) |
 | [Snake Game](https://www.youtube.com/watch?v=-ob86GGyONk) | ![react2](https://user-images.githubusercontent.com/73716334/154715420-9df6653d-4091-499b-afcb-6aa8c01d06c6.png)
-|
 
 <br>
 
@@ -86,8 +84,7 @@
 |   Application Name    |   Technology  |
 |:----------------------|---------------|
 | [Max3Sat](https://www.youtube.com/watch?v=EkPx4DKFHqk) | ![c++2](https://user-images.githubusercontent.com/73716334/159522461-51318a0b-ab6c-4555-a743-06020bfc0ba2.png) |
-| [MultiThreatening Dining Philosophers](https://www.youtube.com/watch?v=vHdBs39LQ6g) | ![scala2](https://user-images.githubusercontent.com/73716334/159522447-980cb921-9da7-45df-853e-cc8f2911b742.png)
-|
+| [MultiThreatening Dining Philosophers](https://www.youtube.com/watch?v=vHdBs39LQ6g) | ![scala2](https://user-images.githubusercontent.com/73716334/159522447-980cb921-9da7-45df-853e-cc8f2911b742.png) |
 
 
 
