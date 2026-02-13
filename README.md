@@ -2,8 +2,8 @@
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Remmo1&theme=tokyonight-duo" alt="statistics" />
 
-Company: <b>Convista Consulting</b></br>
-Position: <b>Java Mid Developer</b>
+🏢 Company: <b>Convista Consulting</b></br>
+💼 Position: <b>Java Mid Developer</b>
 
 ### 📫 Follow me on:
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/73716334/210139054-02668b52-f8a6-4330-8293-01cb60adf2ff.png)](https://www.linkedin.com/in/remigiusz-pisarski-5a6154248/)
