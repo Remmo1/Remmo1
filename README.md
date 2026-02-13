@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=50&width=435&lines=Software+Developer;Computer+Science+Graduate;F1+Fan)](https://git.io/typing-svg)
 
+### [🌐 Visit my portfolio website!](https://remmo1.github.io/)
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Remmo1&theme=tokyonight-duo" alt="statistics" />
 
 🏢 Company: <b>Convista Consulting</b></br>
@@ -9,9 +11,6 @@
 [![icons8-linkedin-48](https://user-images.githubusercontent.com/73716334/210139054-02668b52-f8a6-4330-8293-01cb60adf2ff.png)](https://www.linkedin.com/in/remigiusz-pisarski-5a6154248/)
 [![icons8-facebook-48](https://user-images.githubusercontent.com/73716334/210138986-4a75aae4-a191-4b98-b3a6-f0cde7e36210.png)](https://www.facebook.com/profile.php?id=100007905436766)
 [![Twitter/X Icon](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Remmo123456789)
-
-
-### [Visit my website!](https://remmo1.github.io/) ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/73716334/152412167-1bd22ef0-d5ec-47c7-96e6-b706eee7206c.gif)
 
 ### For people from HR, let's see my skills!
 ### Stack I currently work with:
